@@ -9,4 +9,5 @@ it will be response after 12 seconds for open a new window on browser and also c
 you can change search text or add in this file.
 # Requirements
 1.Live server for run this file.
+
 2.Microsoft Browser
