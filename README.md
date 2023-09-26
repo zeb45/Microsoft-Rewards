@@ -7,7 +7,6 @@ it will be response after 12 seconds for open a new window on browser and also c
 # data
 'data.json' has lot of search text which file can search text on broswer.
 you can change search text or add in this file.
-# Requirements
-1.Live server for run this file.
-
+# <h3>Requirements </h3>
+1.Live server for run this file.</br>
 2.Microsoft Browser
